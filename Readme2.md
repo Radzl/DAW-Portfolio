@@ -11,7 +11,7 @@
 ## **Crear un repositori**
 >El repositori és la ruta o ubicació on s'emmagatzema la totalitat d'informació sobre un projecte. 
 
-### **Explicarem en sis passos simples com crear un repositori en GitHub:** 
+### **Com fer un repositori en 6 passos simples:** 
 
 1. En la cantonada superior dreta de qualsevol página, selecciona i després fes click a _Nou repositori_.
 2. Escriga un nom curt i fàcil de recordar per al repositori. Per exemple: "_hola-món_".
@@ -38,7 +38,8 @@
 ### **Push:**
 
 >Després de fer commits locals, un push envia aquests canvis al repositori remot (com GitHub). Això permet que altres persones puguin veure i accedir als teus canvis. És com pujar els teus canvis a un servidor central perquè estiguin disponibles.
-Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. _Adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local_.
+>
+>Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. _Adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local_.
 
 ### **Pull:** 
 
