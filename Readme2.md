@@ -8,8 +8,9 @@
 El primer pas que hem de prendre és crear un compte de GitHub, hauràs de tindre present el fet de tindre un correu electrònic disponible per a poder crear-la. en cas que no tingues un correu electrònic [ací](https://support.google.com/mail/answer/56256?hl=es) t'explique com fer-lo. Una vegada emplenada tota la informació, hauràs de verificar el compte des del teu correu electrònic per a començar a utilitzar GitHub. 
 
 ## Crear un repositori 
+El repositori és la ruta o ubicació on s'emmagatzema la totalitat d'informació sobre un projecte
 
-Explicarem en sis passos simples com crear un repositori en *GitHub: 
+### Explicarem en sis passos simples com crear un repositori en GitHub: 
 
 1. En la esquina superior derecha de cualquier página, selecciona  y luego haz clic en Nuevo repositorio.
 2. Escriga un nom curt i fàcil de recordar per al repositori. Per exemple: "hola-món".
@@ -18,7 +19,9 @@ Explicarem en sis passos simples com crear un repositori en *GitHub:
 5. Seleccione Initialize this repository with a README (Inicialitzar este repositori amb un arxiu Llija'm).
 6. Faça clic en Create repository (Crear repositori).
 
-## Modificar u arxiu
+Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades.
+
+
 
 
 
