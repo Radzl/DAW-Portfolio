@@ -1,5 +1,5 @@
 
-# **Aprén GitHub des de zero**
+# **Com començar a utilitzar GitHub**
 **Radu Andrei Oancea**
 
 >[Github](https://github.com/) és una plataforma d'allotjament, propietat de Microsoft, que oferix als desenrotlladors la possibilitat de crear repositoris de codi i guardar-los en el núvol de manera segura, usant un sistema de control de versions anomenat Git. GitHub pot ajudar-te a treballar juntament amb altres usuaris per a escriure codi. Emmagatzemant el teu codi en un "repositori" en GitHub et permet presentar o compartir el treball i administrar els canvis en el codi al llarg del temps. Anem a explicar les funcions principals des de zero. 
@@ -25,7 +25,8 @@
 ## **Funcions de GitHub**
 
 ### **Commit** 
->Explicació per passos simples: 
+Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu projecte a la teva còpia local del repositori de Git. Un commit inclou una descripció del que s'ha canviat i permet que es pugui tenir un registre històric de les modificacions. És com fer una foto dels canvis en un punt concret del temps.
+**Com fer un commit en 5 passos simples**: 
 1. Obri el repositori en GitHub.
 2. Edita un fitxer (Fes clic a la icona del llapis (✏️) a la part superior dreta per editar-lo).
 3. Fes els teus canvis.
@@ -33,6 +34,8 @@
 5. Confirma el commit.
    
 ### **Push**
+>Després de fer commits locals, un push envia aquests canvis al repositori remot (com GitHub). Això permet que altres persones puguin veure i accedir als teus canvis. És com pujar els teus canvis a un servidor central perquè estiguin disponibles.
+>
 >Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local.
 
 ### **Pull** 
