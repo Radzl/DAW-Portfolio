@@ -38,9 +38,9 @@ Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un 
 ### Pull 
 Explicació en passos simples:
 1. Accedeix al teu repositori en GitHub.
-2. Ves a la pestanya Pull requests.
-3. Crea una nova Pull Request per fusionar canvis entre branques.
-4. Compara les branques i fes clic a Create Pull Request.
+2. Ves a la pestanya **Pull requests**.
+3. Crea una nova **Pull Request** per fusionar canvis entre branques.
+4. Compara les branques i fes clic a **Create Pull Request**.
 5. Revisa i aprova per completar la fusió.
 
 ## Perquè utilitzar GitHub 
