@@ -14,7 +14,11 @@ Explicarem en sis passos simples com crear un repositori en *GitHub:
 1. En la esquina superior derecha de cualquier página, selecciona  y luego haz clic en Nuevo repositorio.
 2. Escriga un nom curt i fàcil de recordar per al repositori. Per exemple: "hola-món".
 3. Opcionalment, pot agregar una descripció del repositori. Per exemple, "El meu primer repositori en *GitHub".
-4. 
+4. Tria la visibilitat del repositori. Per a obtindre més informació, veja [Sobre els repositoris](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility).
+5. Seleccione Initialize this repository with a README (Inicialitzar este repositori amb un arxiu Llija'm).
+6. Faça clic en Create repository (Crear repositori).
+
+## 
 
 
 
