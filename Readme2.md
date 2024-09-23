@@ -1,6 +1,6 @@
 
 # **Com començar a utilitzar GitHub**
-**Radu Andrei Oancea**
+**Radu Andrei Oancea** 
 
 >[Github](https://github.com/) és una plataforma d'allotjament, propietat de Microsoft, que oferix als desenrotlladors la possibilitat de crear repositoris de codi i guardar-los en el núvol de manera segura, usant un sistema de control de versions anomenat Git. GitHub pot ajudar-te a treballar juntament amb altres usuaris per a escriure codi. Emmagatzemant el teu codi en un "repositori" en GitHub et permet presentar o compartir el treball i administrar els canvis en el codi al llarg del temps. Anem a explicar les funcions principals des de zero. 
 
@@ -9,7 +9,7 @@
 >El primer pas que hem de prendre és crear un compte de GitHub, hauràs de tindre present el fet de tindre un correu electrònic disponible per a poder crear-la. en cas que no tingues un correu electrònic [ací](https://support.google.com/mail/answer/56256?hl=es) t'explique com fer-lo. Una vegada emplenada tota la informació, hauràs de verificar el compte des del teu correu electrònic per a començar a utilitzar GitHub. 
 
 ## **Crear un repositori**
->El repositori és la ruta o ubicació on s'emmagatzema la totalitat d'informació sobre un projecte.
+>El repositori és la ruta o ubicació on s'emmagatzema la totalitat d'informació sobre un projecte. 
 
 ### **Explicarem en sis passos simples com crear un repositori en GitHub:** 
 
@@ -20,7 +20,7 @@
 5. Seleccione Initialize this repository with a README (Inicialitzar este repositori amb un arxiu Llija'm).
 6. Faça clic en _Create repository_ (Crear repositori).
 
->Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades.
+>Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades. Podem verificar l'estat del nostre repositori utilitzant el comando ''_git status_''.
 
 ## **Funcions de GitHub**
 
@@ -64,7 +64,13 @@ Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un 
 * [Github](https://gist.github.com/erlinis/57a55dfb0337f5cd15cd)
 * [Immune](https://immune.institute/blog/que-es-github-en-desarrollo-web/)
 
-  
+## Curiositats
+>GitHub es va interessar en el treball de Oxley després que Twitter seleccionara un ocell que ell havia dissenyat per al seu propi logotip. La il·lustració que va triar GitHub va ser un personatge al qual Oxley havia anomenat _Octopuss_. GitHub va canviar el nom de _Octopuss_ a _Octocat_ i va registrar el personatge juntament amb el nou nom.
+ ![Github](https://www.returngis.net/wp-content/uploads/2021/01/GitHub.png)
+
+ #### **Comença a utilitzar GitHub ja**
+ 
+**[Començar](https://github.com/)**
   
 
 
