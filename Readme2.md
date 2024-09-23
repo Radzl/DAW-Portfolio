@@ -28,6 +28,7 @@
 >Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu projecte a la teva còpia local del repositori de Git. Un commit inclou una descripció del que s'ha canviat i permet que es pugui tenir un registre històric de les modificacions. És com fer una foto dels canvis en un punt concret del temps.
 
 **Com fer un commit en 5 passos simples:**
+
 1. Obri el repositori en GitHub.
 2. Edita un fitxer (Fes clic a la icona del llapis (✏️) a la part superior dreta per editar-lo).
 3. Fes els teus canvis.
@@ -35,13 +36,16 @@
 5. Confirma el commit.
    
 ### **Push**
+
 >Després de fer commits locals, un push envia aquests canvis al repositori remot (com GitHub). Això permet que altres persones puguin veure i accedir als teus canvis. És com pujar els teus canvis a un servidor central perquè estiguin disponibles.
 Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. _Adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local_.
 
 ### **Pull** 
+
 > Un pull és l'operació per baixar i integrar els canvis que altres han fet al repositori remot. Aquesta acció actualitza la teva còpia local amb els últims canvis que s'han fet al repositori central (GitHub).
 
 **Com fer un Pull en 5 passos simples:**
+
 1. Accedeix al teu repositori en GitHub.
 2. Ves a la pestanya **Pull requests**.
 3. Crea una nova **Pull Request** per fusionar canvis entre branques.
@@ -64,13 +68,15 @@ Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un 
 * [Github](https://gist.github.com/erlinis/57a55dfb0337f5cd15cd)
 * [Immune](https://immune.institute/blog/que-es-github-en-desarrollo-web/)
 
-## Curiositats
+## **Curiositats**
+
 >GitHub es va interessar en el treball de Oxley després que Twitter seleccionara un ocell que ell havia dissenyat per al seu propi logotip. La il·lustració que va triar GitHub va ser un personatge al qual Oxley havia anomenat _Octopuss_. GitHub va canviar el nom de _Octopuss_ a _Octocat_ i va registrar el personatge juntament amb el nou nom.
+
  ![Github](https://www.returngis.net/wp-content/uploads/2021/01/GitHub.png)
 
- #### **Comença a utilitzar GitHub ja**
+ ### **Comença a utilitzar GitHub ja:** **[Començar](https://github.com/)**
  
-**[Començar](https://github.com/)**
+
   
 
 
