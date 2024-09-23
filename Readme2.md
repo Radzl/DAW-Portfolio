@@ -25,8 +25,9 @@
 ## **Funcions de GitHub**
 
 ### **Commit** 
-Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu projecte a la teva còpia local del repositori de Git. Un commit inclou una descripció del que s'ha canviat i permet que es pugui tenir un registre històric de les modificacions. És com fer una foto dels canvis en un punt concret del temps.
-**Com fer un commit en 5 passos simples**: 
+>Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu projecte a la teva còpia local del repositori de Git. Un commit inclou una descripció del que s'ha canviat i permet que es pugui tenir un registre històric de les modificacions. És com fer una foto dels canvis en un punt concret del temps.
+
+**Com fer un commit en 5 passos simples:**
 1. Obri el repositori en GitHub.
 2. Edita un fitxer (Fes clic a la icona del llapis (✏️) a la part superior dreta per editar-lo).
 3. Fes els teus canvis.
@@ -35,11 +36,12 @@ Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu p
    
 ### **Push**
 >Després de fer commits locals, un push envia aquests canvis al repositori remot (com GitHub). Això permet que altres persones puguin veure i accedir als teus canvis. És com pujar els teus canvis a un servidor central perquè estiguin disponibles.
->
->Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local.
+Des de la plataforma de [GitHub.com](https://github.com/), no necessites fer un push manual com quan treballes localment amb Git. Quan fas canvis directament en GitHub (com edicions de fitxers o commits), aquests canvis es guarden automàticament al repositori remot. Així que no hi ha cap pas addicional de push. _Adjunte [açi](https://www.youtube.com/watch?v=vpRkAoCqX3o) un video per a quan el treball no siga local_.
 
 ### **Pull** 
->Explicació en passos simples:
+> Un pull és l'operació per baixar i integrar els canvis que altres han fet al repositori remot. Aquesta acció actualitza la teva còpia local amb els últims canvis que s'han fet al repositori central (GitHub).
+
+**Com fer un Pull en 5 passos simples:**
 1. Accedeix al teu repositori en GitHub.
 2. Ves a la pestanya **Pull requests**.
 3. Crea una nova **Pull Request** per fusionar canvis entre branques.
