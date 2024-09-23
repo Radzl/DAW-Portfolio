@@ -21,6 +21,23 @@ El repositori és la ruta o ubicació on s'emmagatzema la totalitat d'informaci�
 
 Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades.
 
+## Funcions de GitHub
+
+### Commit 
+### Push
+### Pull 
+
+## Perquè utilitzar GitHub 
+
+Quan comences a aprofundir en la matería sobre què és GitHub i l'ús que se li dona, cal destacar que aporta una sèrie d'avantatges que enumerem a continuació:
+
+* Accés als teus repositoris sempre des de qualsevol equip, perquè es troben emmagatzemats en el núvol.
+* Amb la seua interfície és possible tindre accés ràpid als repositoris que tingues.
+* Fa més fàcil el maneig i la integració de les modificacions que realitza cada programador.
+* És gratis.
+* Tens el gran suport de la comunitat que usa esta classe de ferramenta diàriament, per la qual cosa els dubtes que es puguen tindre són resoltes amb summa rapidesa.
+
+
 
 
 
