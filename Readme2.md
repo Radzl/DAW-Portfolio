@@ -43,7 +43,6 @@ Explicació en passos simples:
 4. Compara les branques i fes clic a Create Pull Request.
 5. Revisa i aprova per completar la fusió.
 
-
 ## Perquè utilitzar GitHub 
 
 Quan comences a aprofundir en la matería sobre què és GitHub i l'ús que se li dona, cal destacar que aporta una sèrie d'avantatges que enumerem a continuació:
@@ -60,7 +59,6 @@ Quan comences a aprofundir en la matería sobre què és GitHub i l'ús que se l
 * [Github](https://gist.github.com/erlinis/57a55dfb0337f5cd15cd)
 * [Immune](https://immune.institute/blog/que-es-github-en-desarrollo-web/)
 
-**Espere que haja servit d'ajuda!**
   
   
 
