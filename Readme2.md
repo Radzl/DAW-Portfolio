@@ -22,7 +22,7 @@
 
 >Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades. Podem verificar l'estat del nostre repositori utilitzant el comando ''_git status_''.
 
-## **Funcions de GitHub**
+## **Comandos generals de GitHub**
 
 ### **Commit:** 
 >Quan fas un commit, estàs guardant els canvis que has fet als fitxers del teu projecte a la teva còpia local del repositori de Git. Un commit inclou una descripció del que s'ha canviat i permet que es pugui tenir un registre històric de les modificacions. És com fer una foto dels canvis en un punt concret del temps.
@@ -52,6 +52,8 @@
 3. Crea una nova **Pull Request** per fusionar canvis entre branques.
 4. Compara les branques i fes clic a **Create Pull Request**.
 5. Revisa i aprova per completar la fusió.
+
+> Cal destacar que no són els únics comandos, també estan: _branch_, _checkout_, _estatus_, _add_ i més. [Ací](https://www.youtube.com/watch?v=kEPF-MWGq1w) deixe un tutorial més extens sobre comandos de GitHub.
 
 ## **Perquè utilitzar GitHub** 
 
