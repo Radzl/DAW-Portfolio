@@ -17,7 +17,7 @@
 2. Escriga un nom curt i fàcil de recordar per al repositori. Per exemple: "_hola-món_".
 3. Opcionalment, pot agregar una descripció del repositori. Per exemple, "_El meu primer repositori en GitHub_".
 4. Tria la visibilitat del repositori. Per a obtindre més informació, veja [Sobre els repositoris](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility).
-5. Seleccione Initialize this repository with a README (Inicialitzar este repositori amb un arxiu Llija'm).
+5. Seleccione _Initialize this repository with a README_ (Et permet crear el repositori amb un arxiu _README_).
 6. Faça clic en _Create repository_ (Crear repositori).
 
 >Ara que tenim creat el nostre repositori en GitHub, continuarem explicant com pots modificar i treballar en grup, explicant les funcions de ''commit'', ''push'' i ''pull'', que són les més utilitzades. Podem verificar l'estat del nostre repositori utilitzant el comando ''_git status_''.
