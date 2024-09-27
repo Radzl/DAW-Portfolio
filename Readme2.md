@@ -13,7 +13,7 @@
 
 ### **Com fer un repositori en 6 passos simples:** 
 
-1. En la cantonada superior dreta de qualsevol página, selecciona i després fes click a _New Repository_.
+1. En la cantonada superior dreta de qualsevol página, selecciona i després fes click a _New Repository_ (Nou repositori).
 2. Escriga un nom curt i fàcil de recordar per al repositori. Per exemple: "_hola-món_".
 3. Opcionalment, pot agregar una descripció del repositori. Per exemple, "_El meu primer repositori en GitHub_".
 4. Tria la visibilitat del repositori. Per a obtindre més informació, veja [Sobre els repositoris](https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories#about-repository-visibility).
