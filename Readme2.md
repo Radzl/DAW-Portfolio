@@ -2,7 +2,7 @@
 # **Com començar a utilitzar GitHub**
 **Radu Andrei Oancea** 
 
->[Github](https://github.com/) és una plataforma d'allotjament, propietat de Microsoft, que oferix als desenrotlladors la possibilitat de crear repositoris de codi i guardar-los en el núvol de manera segura, usant un sistema de control de versions anomenat Git. GitHub pot ajudar-te a treballar juntament amb altres usuaris per a escriure codi. Emmagatzemant el teu codi en un "repositori" en GitHub et permet presentar o compartir el treball i administrar els canvis en el codi al llarg del temps. Anem a explicar les funcions principals des de zero. 
+>[Github](https://github.com/) és una plataforma d'allotjament, propietat de Microsoft, que oferix als desenrotlladors la possibilitat de crear repositoris de codi i guardar-los en el núvol de manera segura, usant un sistema de control de versions anomenat Git. GitHub pot ajudar-te a treballar juntament amb altres usuaris per a escriure codi. Emmagatzemant el teu codi en un "repositori" en GitHub et permet presentar o compartir el treball i administrar els canvis en el codi al llarg del temps. A continuació anem a explicar com començar a utilitzar la plataforma des de zero, primerament centrant la explicació en la creació de compte i repositori, i acabant amb la explicació dels comandos més utilitzats, avantatges i curiositats. 
 
 ## **Crear un compte de GitHub**
 
@@ -65,19 +65,25 @@
 * És gratis.
 * Tens el gran suport de la comunitat que usa esta classe de ferramenta diàriament, per la qual cosa els dubtes que es puguen tindre són resoltes amb summa rapidesa.
 
+## **Conclusió**
+
+>En resum, [GitHub](https://github.com/) és una eina essencial per a qualsevol programador o equip de desenvolupament que vulga gestionar el codi de manera eficient i col·laborativa. Amb la seua funcionalitat basada en Git, permet portar un control de versions segur, col·laborar amb altres desenvolupadors i accedir als projectes des de qualsevol lloc. La facilitat d'ús i la gran comunitat que el recolza fan de GitHub una plataforma molt útil tant per a projectes personals com professionals.
+
+## **Curiositats**
+
+>GitHub es va interessar en el treball de Oxley després que Twitter seleccionara un ocell que ell havia dissenyat per al seu propi logotip. La il·lustració que va triar GitHub va ser un personatge al qual Oxley havia anomenat _Octopuss_. GitHub va canviar el nom de _Octopuss_ a _Octocat_ i va registrar el personatge juntament amb el nou nom.
+
+![Github](https://www.returngis.net/wp-content/uploads/2021/01/GitHub.png)
+
+### **Comença a utilitzar GitHub ja:** **[Començar](https://github.com/)**
+
 ## **Bibliografía**
 
 * [Google](https://www.google.es/)
 * [Github](https://gist.github.com/erlinis/57a55dfb0337f5cd15cd)
 * [Immune](https://immune.institute/blog/que-es-github-en-desarrollo-web/)
 
-## **Curiositats**
 
->GitHub es va interessar en el treball de Oxley després que Twitter seleccionara un ocell que ell havia dissenyat per al seu propi logotip. La il·lustració que va triar GitHub va ser un personatge al qual Oxley havia anomenat _Octopuss_. GitHub va canviar el nom de _Octopuss_ a _Octocat_ i va registrar el personatge juntament amb el nou nom.
-
- ![Github](https://www.returngis.net/wp-content/uploads/2021/01/GitHub.png)
-
- ### **Comença a utilitzar GitHub ja:** **[Començar](https://github.com/)**
  
 
   
