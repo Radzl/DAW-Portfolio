@@ -63,7 +63,7 @@
 * Amb la seua interfície és possible tindre accés ràpid als repositoris que tingues.
 * Fa més fàcil el maneig i la integració de les modificacions que realitza cada programador.
 * És gratis.
-* Tens el gran suport de la comunitat que usa esta classe de ferramenta diàriament, per la qual cosa els dubtes que es puguen tindre són resoltes amb summa rapidesa.
+* Tens el gran suport de la comunitat que usa esta classe de ferramenta diàriament, per la qual cosa els dubtes que es puguen tindre són resolts amb summa rapidesa.
 
 ## **Conclusió**
 
