@@ -75,7 +75,7 @@
 
 ![Github](https://www.returngis.net/wp-content/uploads/2021/01/GitHub.png)
 
-### **Comença a utilitzar GitHub ja:** **[Començar](https://github.com/)**
+### **[Comença a utilitzar GitHub ja](https://github.com/)**
 
 ## **Bibliografía**
 
