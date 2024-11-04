@@ -68,7 +68,7 @@ Práctica grupal utilizando SSH con un PC servidor y un PC cliente para crear un
 
 ## Póster de Servidor Web
 
-Trabajo de investigación sobre servidores web, organizado en tres grupos de expertos:
+Trabajo de investigación sobre servidores web, organizado en 3 expertos por grupo:
 
 1. **Experto A**:
    - ¿Qué es un servidor web?
@@ -85,12 +85,34 @@ Trabajo de investigación sobre servidores web, organizado en tres grupos de exp
    - Tipos de protocolos de Internet.
    - Puertos más comunes en Internet.
 
-Cada grupo compartió sus hallazgos con los demás para crear un póster informativo sobre servidores web.
-
 ---
 
 ## Conclusión
 
-Resumen y cierre de los conocimientos adquiridos sobre el uso de Markdown, GitHub, Bash, SSH, servidores Apache y la creación de servidores web.
+He completado una serie de actividades y prácticas que me han permitido desarrollar nuevas habilidades técnicas y comprender mejor el funcionamiento de diversas herramientas y tecnologías clave en el ámbito de la informática y la administración de sistemas. A continuación, detallo los aprendizajes obtenidos y el impacto positivo de cada actividad:
 
---- 
+1. **Ejercicios Prácticos de Markdown**:  
+   He aprendido a utilizar Markdown de forma efectiva para la documentación de proyectos, lo que facilita la presentación de información de manera estructurada y profesional.
+
+2. **Tutorial de GitHub en Markdown**:  
+   Al crear un tutorial en Markdown sobre GitHub, he reforzado mis conocimientos sobre control de versiones y colaboración en proyectos. Ahora comprendo mejor cómo gestionar repositorios y cómo utilizar Git y GitHub para la colaboración, la organización de código y el seguimiento de versiones.
+
+3. **Trabajo de Exposición por Grupos**:  
+   Trabajar en equipo para investigar temas como el servidor Apache, los protocolos HTTP y HTTPS y su impacto en la web me ha permitido afianzar conocimientos sobre la arquitectura de servidores y la seguridad en las conexiones. Además, la experiencia en exposiciones grupales ha mejorado mis habilidades de comunicación.
+
+4. **Ejercicios de Bash en Linux**:  
+   La práctica de 100 ejercicios de Bash me ha dado una comprensión de los comandos de Linux, esenciales para la administración y automatización de sistemas. 
+
+5. **Instalación de Apache en Ubuntu (Paso a Paso)**:  
+   Documentar el proceso de instalación de Apache en Ubuntu me ha enseñado a instalar y configurar un servidor web desde cero, un proceso esencial en el trabajo de administración de servidores.
+
+6. **Trabajo SSH por Grupos**:  
+   La práctica de SSH en grupo, creando un Virtual Host entre un PC cliente y un PC servidor, me ha dado experiencia en conexiones remotas seguras y en la configuración de Virtual Hosts. Aprendí cómo crear usuarios, activar servicios SSH, gestionar archivos entre sistemas y configurar un sitio accesible desde diferentes ubicaciones.
+
+7. **Póster de Servidor Web**:  
+   La creación de un póster sobre servidores web ha consolidado mis conocimientos sobre las funciones, componentes y tipos de servidores web. La colaboración con otros compañeros en esta tarea me permitió desarrollar habilidades de investigación y mejorar mi capacidad para presentar información de forma clara y visual.
+
+### Conclusión Final
+
+Cada actividad realizada ha contribuido a ampliar mis conocimientos y habilidades en administración de sistemas, programación y gestión de servidores. Este trimestre no solo me ha dado experiencia técnica, sino que también me ha enseñado a trabajar en equipo, a documentar procesos de manera efectiva y a organizar mi aprendizaje de forma estructurada. 
+
