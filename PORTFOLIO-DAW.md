@@ -43,7 +43,7 @@ Ejecución de 100 ejercicios prácticos de comandos en Bash para Linux, con la v
 
 ## Instalación de Apache en Ubuntu (Paso a Paso)
 
-Documentación de la instalación paso a paso de Apache en Ubuntu.
+Instalación paso a paso de Apache en Ubuntu.
 
 ---
 
@@ -89,7 +89,7 @@ Trabajo de investigación sobre servidores web, organizado en 3 expertos por gru
 
 ## Conclusión
 
-He completado una serie de actividades y prácticas que me han permitido desarrollar nuevas habilidades técnicas y comprender mejor el funcionamiento de diversas herramientas y tecnologías clave en el ámbito de la informática y la administración de sistemas. A continuación, detallo los aprendizajes obtenidos y el impacto positivo de cada actividad:
+He completado una serie de actividades y prácticas que me han permitido desarrollar nuevas habilidades técnicas y comprender mejor su funcionamiento.
 
 1. **Ejercicios Prácticos de Markdown**:  
    He aprendido a utilizar Markdown de forma efectiva para la documentación de proyectos, lo que facilita la presentación de información de manera estructurada y profesional.
@@ -104,10 +104,10 @@ He completado una serie de actividades y prácticas que me han permitido desarro
    La práctica de 100 ejercicios de Bash me ha dado una comprensión de los comandos de Linux, esenciales para la administración y automatización de sistemas. 
 
 5. **Instalación de Apache en Ubuntu (Paso a Paso)**:  
-   Documentar el proceso de instalación de Apache en Ubuntu me ha enseñado a instalar y configurar un servidor web desde cero, un proceso esencial en el trabajo de administración de servidores.
+   Documentar el proceso de instalación de Apache en Ubuntu me ha enseñado a instalar y configurar un servidor web desde cero.
 
 6. **Trabajo SSH por Grupos**:  
-   La práctica de SSH en grupo, creando un Virtual Host entre un PC cliente y un PC servidor, me ha dado experiencia en conexiones remotas seguras y en la configuración de Virtual Hosts. Aprendí cómo crear usuarios, activar servicios SSH, gestionar archivos entre sistemas y configurar un sitio accesible desde diferentes ubicaciones.
+   La práctica de SSH en grupo, creando un Virtual Host entre un PC cliente y un PC servidor, me ha dado experiencia en conexiones remotas seguras y en la configuración de Virtual Hosts. Aprendí cómo crear usuarios, activar servicios SSH y gestionar archivos entre sistemas.
 
 7. **Póster de Servidor Web**:  
    La creación de un póster sobre servidores web ha consolidado mis conocimientos sobre las funciones, componentes y tipos de servidores web. La colaboración con otros compañeros en esta tarea me permitió desarrollar habilidades de investigación y mejorar mi capacidad para presentar información de forma clara y visual.
