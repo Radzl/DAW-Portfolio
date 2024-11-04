@@ -23,7 +23,7 @@ Realización de ejercicios básicos de Markdown para adquirir conocimientos en e
 
 ---
 
-## Tutorial de GitHub en Markdown
+## Tutorial de cómo utiliza Github 
 
 Creación de un tutorial sobre el uso de GitHub utilizando Markdown, incluyendo la creación de repositorios, comandos básicos de Git y la documentación de proyectos.
 
