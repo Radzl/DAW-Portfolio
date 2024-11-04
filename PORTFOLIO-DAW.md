@@ -1,4 +1,4 @@
-# Portafolio del Trimestre
+# Portfolio DAW
 
 Este portafolio documenta las actividades y proyectos realizados durante el trimestre en temas como Markdown, GitHub, Apache, Bash, SSH y servidores web. Incluye ejercicios prácticos, explicaciones, y tutoriales para proporcionar una visión detallada de cada actividad.
 
