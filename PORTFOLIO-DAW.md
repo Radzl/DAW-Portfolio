@@ -1,6 +1,4 @@
-# Portafolio del Trimestre
-
-Este documento resume las actividades realizadas a lo largo del trimestre.
+# Portfolio DAW
 
 ---
 
