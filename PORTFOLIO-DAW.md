@@ -8,7 +8,7 @@
 2. [Tutorial de GitHub en Markdown](#tutorial-de-github-en-markdown)
 3. [Trabajo de Exposición por Grupos](#trabajo-de-exposición-por-grupos)
 4. [Ejercicios de Bash en Linux](#ejercicios-de-bash-en-linux)
-5. [Instalación de Apache en Ubuntu (Paso a Paso)](#instalación-de-apache-en-ubuntu-paso-a-paso)
+5. [Instalación de Apache en Ubuntu](#instalación-de-apache-en-ubuntu)
 6. [Trabajo SSH por Grupos](#trabajo-ssh-por-grupos)
 7. [Póster de Servidor Web](#póster-de-servidor-web)
 8. [Conclusión](#conclusión)
@@ -41,7 +41,7 @@ Ejecución de 100 ejercicios prácticos de comandos en Bash para Linux, con la v
 
 ---
 
-## Instalación de Apache en Ubuntu (Paso a Paso)
+## Instalación de Apache en Ubuntu
 
 Instalación paso a paso de Apache en Ubuntu.
 
@@ -103,7 +103,7 @@ He completado una serie de actividades y prácticas que me han permitido desarro
 4. **Ejercicios de Bash en Linux**:  
    La práctica de 100 ejercicios de Bash me ha dado una comprensión de los comandos de Linux, esenciales para la administración y automatización de sistemas. 
 
-5. **Instalación de Apache en Ubuntu (Paso a Paso)**:  
+5. **Instalación de Apache en Ubuntu**:  
    Documentar el proceso de instalación de Apache en Ubuntu me ha enseñado a instalar y configurar un servidor web desde cero.
 
 6. **Trabajo SSH por Grupos**:  
