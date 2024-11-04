@@ -4,14 +4,14 @@
 
 ## Índice
 
-1. [Ejercicios Prácticos de Markdown](#ejercicios-prácticos-de-markdown)
-2. [Tutorial de GitHub en Markdown](#tutorial-de-github-en-markdown)
-3. [Trabajo de Exposición por Grupos](#trabajo-de-exposición-por-grupos)
-4. [Ejercicios de Bash en Linux](#ejercicios-de-bash-en-linux)
-5. [Instalación de Apache en Ubuntu](#instalación-de-apache-en-ubuntu)
-6. [Trabajo SSH por Grupos](#trabajo-ssh-por-grupos)
-7. [Póster de Servidor Web](#póster-de-servidor-web)
-8. [Conclusión](#conclusión)
+1. Ejercicios Prácticos de Markdown
+2. Tutorial de GitHub en Markdown
+3. Trabajo - Exposición por grupos
+4. Ejercicios de Bash en Linux
+5. Instalación de Apache en Ubuntu
+6. Trabajo SSH por grupos
+7. Póster de Servidor Web
+8. Conclusión
 
 ---
 
@@ -27,7 +27,7 @@ Creación de un tutorial sobre el uso de GitHub utilizando Markdown, incluyendo 
 
 ---
 
-## Trabajo de Exposición por Grupos
+## Trabajo por grupos
 
 1. **Servidor Apache**: Investigación grupal sobre el servidor Apache, incluyendo ventajas, desventajas y funcionamiento.
 2. **Instalación de Apache en Ubuntu Server**: Documentación sobre los pasos de instalación de Apache en un entorno Ubuntu Server.
@@ -47,7 +47,7 @@ Instalación paso a paso de Apache en Ubuntu.
 
 ---
 
-## Trabajo SSH por Grupos
+## Trabajo SSH por grupos
 
 Práctica grupal utilizando SSH con un PC servidor y un PC cliente para crear un Virtual Host. Tareas realizadas:
 
